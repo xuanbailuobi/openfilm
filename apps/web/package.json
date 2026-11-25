@@ -1,0 +1,26 @@
+{
+  "name": "@adfilm/web",
+  "private": true,
+  "version": "0.1.0",
+  "description": "AdFilm · AIGC 广告制作创意平台的 Web 端（按 Figma「创意工具开发」页的设计实现）",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5180 --open",
+    "build": "vite build",
+    "preview": "vite preview --port 5180",
+    "typecheck": "tsc -p ."
+  },
+  "dependencies": {
+    "lucide-react": "^0.469.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^5.2.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.6"
+  }
+}

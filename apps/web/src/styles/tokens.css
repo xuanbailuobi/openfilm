@@ -1,0 +1,36 @@
+/* 与 Figma「AdFilm Studio / Color」变量集合一一对应（Dark 模式） */
+:root {
+  --bg-app: #141414;
+  --bg-panel: #181818;
+  --bg-raised: #232323;
+  --bg-hover: #2f2f2f;
+  --bg-canvas: #000000;
+
+  --border-default: #2a2a2a;
+  --border-strong: #404040;
+
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --text-tertiary: #808080;
+  --text-on-accent: #ffffff;
+
+  --accent: #e50914;
+  --accent-soft: #3a0b0e;
+  --accent-info: #0071eb;
+
+  --clip-video: #1f4e8c;
+  --clip-text: #8c1c22;
+  --clip-subtitle: #2c6e76;
+  --clip-audio: #24683a;
+
+  --success: #46d369;
+  --warning: #f5a623;
+
+  --radius-sm: 2px;
+  --radius: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+
+  --font: 'Noto Sans SC', -apple-system, system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --sidebar-w: 232px;
+}
